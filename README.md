@@ -10,8 +10,7 @@
 - 🤔 I’m looking for help with ParticlesTS
 - 💬 Ask me about anything, I love talk :) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I could speak some words in Dutch.
-
+- ⚡ Fun fact: I'm doing my best to learn Dutch so I can understand what my 3-year-old nephew is saying to me. So: Doei Doei👋🏻!
 <!--
 **FernandaGabrielli/fernandagabrielli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
