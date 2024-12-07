@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ParticlesTS
 - 💬 Ask me about anything, I love talk :) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I could speak in english, spanish and some words in Dutch.
+- ⚡ Fun fact: I could speak some words in Dutch.
 
 <!--
 **FernandaGabrielli/fernandagabrielli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
