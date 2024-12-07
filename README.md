@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm mostly called Gabs. I just love coding, seriously. I’m not sure when it all started, but I can say I’ve had some things in my cloud since I began learning HTML when I was eleven. By the time I was twenty-one, I realized this is what I want to do for the rest of my life, and since then, that's what I've been doing.
 
 <!--
 **FernandaGabrielli/fernandagabrielli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
