@@ -1,9 +1,3 @@
-# 🌟 Welcome | Bem-vindo(a) 🌟
-
-[![Versão em Português](https://img.shields.io/badge/Ver-Português-green)](#versao-em-portugues)
-
----
-
 ## 🇬🇧 English Version
 
 Hello! I’m mostly called Gabs.  
