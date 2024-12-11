@@ -21,7 +21,7 @@ Eu simplesmente amo programar, sério. Não tenho certeza de quando tudo começo
 - 🤔 Preciso de ajuda com ParticlesTS  
 - 💬 Pergunte-me qualquer coisa, adoro conversar :)  
 - 😄 Pronomes: Ela/Dela  
-- ⚡ Curiosidade: Estou dando o meu melhor para aprender holandês, para entender o que meu sobrinho de 3 anos está dizendo para mim. Então: Doei Doei👋🏻!
+- ⚡ Curiosidade: Estou dando o meu melhor para aprender holandês, para entender o que meu sobrinho de 3 anos me fala. Então: Doei Doei👋🏻!
 
 </details>
 
