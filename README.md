@@ -12,8 +12,7 @@
 <details id="versao-em-portugues">
 <summary>🇧🇷 Versão em Português</summary>
 
-## Olá! Sou chamada de Gabs.  
-Eu simplesmente amo programar, sério. Não tenho certeza de quando tudo começou, mas posso dizer que desde que comecei a aprender HTML aos onze anos, tenho algumas coisinhas que fiz nessa época na minha nuvem. Naquela época, eu via isso apenas como um hobby, algo que fazia como entusiasta. Mas quando completei 21 anos, percebi que é isso que quero fazer pelo resto da minha vida. Não é apenas um hobby, mas algo que amo e que me faz sentir realizada, e desde então é isso que tenho feito.
+## Olá! Eu sou mais chamada por Gabs. Eu simplesmente amo programar, sério. Não tenho certeza de quando tudo começou, mas posso dizer que desde que comecei a aprender HTML aos onze anos, tenho algumas coisinhas que fiz nessa época na minha nuvem. Naquela época, eu via isso apenas como um hobby, algo que fazia como entusiasta. Mas quando completei 21 anos, percebi que é isso que quero fazer pelo resto da minha vida. Não é apenas um hobby, mas algo que amo e que me faz sentir realizada, e desde então é isso que tenho feito.
 
 - 🔭 Atualmente trabalho na Telefônica(Vivo)  
 - 🌱 Estou aprendendo SQL  
